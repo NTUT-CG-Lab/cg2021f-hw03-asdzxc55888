@@ -1,0 +1,35 @@
+[
+    {
+        "modelPath": "models/mmd/kizunaai/kizunaai.pmx",
+        "RightXNegativeAngle": "8.6",
+        "LeftXNegativeAngle": "8.6",
+        "RightXPositiveAngle": "-11.2",
+        "LeftXPositiveAngle": "-11.2",
+        "RightYNegativeAngle": "7.8",
+        "LeftYNegativeAngle": "12.6",
+        "RightYPositiveAngle": "-12.6",
+        "LeftYPositiveAngle": "-7.8"
+    },
+    {
+        "modelPath": "models/mmd/るいのれ式物述有栖_配布用フォルダ/物述有栖.pmx",
+        "RightXNegativeAngle": "14.9",
+        "LeftXNegativeAngle": "14.9",
+        "RightXPositiveAngle": "-15.8",
+        "LeftXPositiveAngle": "-15.8",
+        "RightYNegativeAngle": "10.0",
+        "LeftYNegativeAngle": "20.9",
+        "RightYPositiveAngle": "-20.9",
+        "LeftYPositiveAngle": "-10.0"
+    },
+    {
+        "modelPath": "models/mmd/『天宮こころ(Kokoro Amamiya)』/『天宮こころ(Kokoro Amamiya)』.pmx",
+        "RightXNegativeAngle": "17.9",
+        "LeftXNegativeAngle": "17.7",
+        "RightXPositiveAngle": "-12.5",
+        "LeftXPositiveAngle": "-12.5",
+        "RightYNegativeAngle": "10.1",
+        "LeftYNegativeAngle": "16.0",
+        "RightYPositiveAngle": "-16.0",
+        "LeftYPositiveAngle": "-10.1"
+    }
+]
